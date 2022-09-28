@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+
+main {
+  display: inline-block;
+  text-align: center;
+}/*# sourceMappingURL=styles.css.map */
